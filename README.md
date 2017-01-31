@@ -7,3 +7,6 @@ Yet Another DCGAN for keras
 - joblib, to load image dump of big size
 - matplotlib, for debug output
 - GPU card for reasonable training speed 
+
+# Examples:
+![After 4 hours of training](/example-early.png?raw=true "After 4 hours of training")
