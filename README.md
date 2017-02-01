@@ -9,4 +9,5 @@ Yet Another DCGAN for keras
 - GPU card for reasonable training speed 
 
 # Examples:
-![After 4 hours of training](/example-early.png?raw=true "After 4 hours of training")
+![After ~5 hours of training](/example-early.png?raw=true "After ~5 hours of training")
+![After ~16 hours of training](/example-16h.png?raw=true "After ~16 hours of training")
