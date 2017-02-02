@@ -17,3 +17,4 @@ Dataset consists of ~870000 RGB images of size 48x48 from old games. Mainly imag
 ![After ~16 hours of training](/example-16h.png?raw=true "After ~16 hours of training")
 
 ![After ~30 hours of training](/example-30h.png?raw=true "After ~30 hours of training")
+![After ~40 hours of training](/example-40h.png?raw=true "After ~40 hours of training")
